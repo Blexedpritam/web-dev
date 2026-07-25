@@ -1,149 +1,65 @@
-# 📌 HTML and CSS Project
+# 📌 Web Dev Practice — HTML, CSS & JavaScript
 
 ## 📖 Overview
 
-This project demonstrates the implementation of structured HTML forms, tables, and beginner-friendly CSS concepts. It includes practical examples such as event registration forms, job application forms, personal information forms, CSS positioning properties, and CSS size units.
-
-The project is designed for beginners who want to practice webpage structure, form creation, table design, responsive layouts, and CSS styling techniques in depth.
+Daily practice repository following **Love Babbar's** Web Development playlist — covering structured HTML, CSS fundamentals, layout systems, and core JavaScript concepts. Organized lecture-by-lecture as the course progresses.
 
 ---
 
-# 🧩 Features
+## 🧩 HTML & Forms Practice
 
-## 🔹 Event Registration Form
-
-Collects attendee details such as:
-
-- Full Name
-- Email Address
-- Phone Number
-- Event Type
-- Number of Participants
-
-Displays participant information in a structured table format.
+- **Event Registration Form** — Full Name, Email, Phone, Event Type, Participant count, displayed in a table
+- **Job Application Form** — Name, Email, Resume upload (UI only), Position, Experience level
+- **Personal Information Form** — Name, Age, Gender, Address, Contact details
+- Basic HTML: Headings, Paragraphs, Lists, Links, Images, Buttons, Tables, Forms
 
 ---
 
-## 🔹 Job Application Form
+## 🎨 CSS Practice
 
-Captures applicant information including:
-
-- Name
-- Email
-- Resume Upload (UI only)
-- Position Applied For
-- Experience Level
-
-Includes a sample applicants table for practice.
+- Text styling, backgrounds, borders, padding/margin, fonts, hover effects, table & form styling
+- **Position Property:** Static · Relative · Absolute · Fixed · Sticky
+- **Size Units in Depth:** `px` · `%` · `vw` · `vh` · `em` · `rem`
+- **Layout Systems:** Flexbox (dimensions, alignment), CSS Grid, 2D transformations
+- Media queries for responsive design
 
 ---
 
-## 🔹 Personal Information Form
+## 🧠 JavaScript Fundamentals
 
-Used for general data collection:
-
-- Name
-- Age
-- Gender
-- Address
-- Contact Details
-
-Displays entered information using tables.
-
----
-
-# 🎨 Additional HTML & CSS Practice
-
-This project also contains beginner-level HTML and CSS practice sections.
-
-## ✅ Basic HTML Practice
-
-- Headings
-- Paragraphs
-- Lists
-- Links
-- Images
-- Buttons
-- Tables
-- Forms
+- Variables & data types
+- Array operations and functions (`getSum`, and other custom utilities)
+- Functions, block scope, and function scope
+- Object property cloning
+- Error handling (`try` / `catch`)
+- Closures
+- Promises
+- Async/Await & API practice
 
 ---
 
-## ✅ CSS Styling Practice
+## 🛠️ Technologies Used
 
-- Text Styling
-- Background Colors
-- Borders
-- Padding and Margin
-- Font Styling
-- Hover Effects
-- Table Styling
-- Form Styling
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+Static frontend practice — no backend.
 
 ---
 
-# 📍 CSS Position Property Practice
+## 📂 Structure
 
-This project includes examples and practice for CSS Position properties:
-
-## 🔹 Static
-Default positioning of HTML elements.
-
-## 🔹 Relative
-Positions elements relative to their normal position.
-
-## 🔹 Absolute
-Positions elements relative to the nearest positioned parent.
-
-## 🔹 Fixed
-Keeps elements fixed on the screen even during scrolling.
-
-## 🔹 Sticky
-Makes elements stick to a position while scrolling.
-
-These examples help beginners understand webpage layout behavior and positioning techniques.
-
----
-
-# 📏 CSS Size Units in Depth
-
-This project also includes detailed practice and examples of CSS size units for responsive and flexible web design.
-
-## 🔹 px (Pixels)
-Fixed-size unit used for precise sizing.
-
-## 🔹 % (Percentage)
-Relative unit based on parent element size.
-
-## 🔹 vw (Viewport Width)
-Responsive unit based on browser width.
-
-## 🔹 vh (Viewport Height)
-Responsive unit based on browser height.
-
-## 🔹 em
-Relative unit based on the font size of the parent element.
-
-## 🔹 rem
-Relative unit based on the root (`html`) font size.
-
-These examples help beginners understand responsive design concepts and scalable layouts.
-
----
-
-# 🛠️ Technologies Used
-
-- **HTML5** – Webpage structure and forms
-- **CSS3** – Styling, positioning, and responsive sizing
-- Static frontend project (No backend)
-
----
-
-# 📂 Project Structure
-
-```bash
-project-folder/
+```
+Web-Dev-Practice/
 │
-├── index.html        # Main HTML file
-├── styles.css        # CSS styling and layout file
-└── README.md         # Project documentation
+├── FORM ADV/          # Advanced form practice
+├── HTML TABLE/         # Table-based layout practice
+├── lecture 11–58/       # Lecture-wise HTML, CSS & JS exercises
+├── .gitignore
+└── README.md
+```
+
+---
+
+📫 [LinkedIn](https://linkedin.com/in/pritam-kumar-419915407) &nbsp;|&nbsp; 🐙 [GitHub](https://github.com/Blexedpritam)
